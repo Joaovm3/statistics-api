@@ -1,0 +1,9 @@
+# ignore .git folder
+.git
+venv
+
+*.pyc
+*.pyo
+
+
+
